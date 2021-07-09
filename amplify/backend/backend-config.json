@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "doctorflow8f6a8430": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
